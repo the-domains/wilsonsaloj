@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: New thing here
-datePublished: '2016-06-26T08:59:04.656Z'
-dateModified: '2016-06-26T08:59:03.343Z'
+datePublished: '2016-06-26T08:59:35.130Z'
+dateModified: '2016-06-26T08:59:28.988Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-26-the-defiant-few.md
+starred: false
 url: the-defiant-few/index.html
 _type: Article
 
