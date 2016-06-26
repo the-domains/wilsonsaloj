@@ -1,6 +1,6 @@
 name: wilsonsaloj
 favicon: null
-layout_spectrum: 0.0242
+layout_spectrum: 1
 typography_spectrum: 0.20678
 title: wilsonsaloj
 cta:
@@ -22,8 +22,8 @@ color:
     - '#858793'
     - '#3b99b2'
     - '#0b2864'
-  brandStrength: 0.9375
+  brandStrength: 0
   lightness: 1
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
