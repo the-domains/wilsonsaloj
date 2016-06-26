@@ -1,6 +1,6 @@
 name: wilsonsaloj
 favicon: null
-layout_spectrum: 0.9275939783547074
+layout_spectrum: 0.0242
 typography_spectrum: 0.43725548684597015
 title: wilsonsaloj
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#b6b7b2'
-    - '#040507'
-    - '#525254'
-    - '#618263'
-    - '#0463a5'
-  brandStrength: 0.7032300904393196
-  lightness: 0.11474162386730313
-  saturation: 0.790433760965243
-  rhythmicContrast: 0.3137663574889302
+    - '#b1b1bd'
+    - '#02000b'
+    - '#858793'
+    - '#3b99b2'
+    - '#0b2864'
+  brandStrength: 0.9375
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
