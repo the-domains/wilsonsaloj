@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.7282479610294104
+  brandStrength: 0
   lightness: 0
   brandColors:
     - '#304269'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: wilsonsaloj
 favicon: null
+name: wilsonsaloj
 opengraph:
   image: null
   type: null
