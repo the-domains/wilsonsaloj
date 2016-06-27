@@ -1,20 +1,4 @@
-name: wilsonsaloj
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.20678
-title: wilsonsaloj
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b1b1bd'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: null
+name: wilsonsaloj
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: wilsonsaloj
 purpose: []
