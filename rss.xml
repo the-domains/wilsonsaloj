@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[wilsonsaloj]]></title>
         <description><![CDATA[wilsonsaloj]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wilsonsaloj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 11:34:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 11:34:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wilsonsaloj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Days Of Future Past ]]></title>
+            <description><![CDATA[<article><h1>Days Of Future Past </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc49406-8e47-4ce8-9346-07f18f158b9b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wilsonsaloj/days-of-future-past/index.html</link>
+            <guid isPermaLink="false">c6cfedf6-092f-4e3c-bd4c-50fda6799e8e</guid>
+            <pubDate>Mon, 27 Jun 2016 11:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title 2]]></title>
             <description><![CDATA[<article><h1>Title 2</h1><p>Testing this post from phone app</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/644ad3df20dc0ef4a9ca92068f6bdf87/croprotate.jpg?cropheight=608&cropwidth=608&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff10fb41d-50c0-4ea1-956a-beeab41217e8.jpg&x=16&y=16"></article>]]></description>
