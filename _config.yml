@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0.7282479610294104
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#304269'
     - '#91BED4'
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-  rhythmicContrast: 0.6182796
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,12 +31,12 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: wilsonsaloj
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 logo: null
 typography_spectrum: 0.4247312
-layout_spectrum: 0.9036106313578784
+layout_spectrum: 0
