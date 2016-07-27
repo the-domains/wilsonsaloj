@@ -2,7 +2,7 @@
 description: >-
   Something text text. Something else that can be edited and reposted for test
   test test
-datePublished: '2016-06-27T11:34:20.409Z'
+datePublished: '2016-07-27T10:59:14.659Z'
 inNav: false
 inLanguage: null
 author: []
@@ -11,10 +11,11 @@ sourcePath: >-
 hasPage: true
 authors: []
 title: 'Photography '
-publisher: null
+publisher: {}
 keywords: []
-dateModified: '2016-06-27T11:31:43.713Z'
+dateModified: '2016-07-27T10:59:14.076Z'
 inFeed: true
+via: {}
 starred: false
 url: photography/index.html
 _type: Article
