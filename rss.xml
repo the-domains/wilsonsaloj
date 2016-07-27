@@ -4,20 +4,20 @@
         <description><![CDATA[wilsonsaloj-nftlot]]></description>
         <link>https://thegrid.ai/wilsonsaloj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 10:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 10:59:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wilsonsaloj/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[First post ]]></title>
-            <description><![CDATA[<article><h1>First post </h1><p>Hello Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aebf077-9db3-40b2-bb02-d3ebff4947dc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wilsonsaloj/first-post/index.html</link>
-            <guid isPermaLink="false">0af749d2-1346-49ae-9384-b1d171c697b3</guid>
-            <pubDate>Mon, 27 Jun 2016 11:34:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Photography ]]></title>
             <description><![CDATA[<article><h1>Photography </h1><p>Something text text. Something else that can be edited and reposted for test test test</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/08c3f7da43798f337722924d19f88805/croprotate.jpg?cropheight=3889&cropwidth=3266&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F45990a15-b068-40d6-bad1-0c8470a59691.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/wilsonsaloj/photography/index.html</link>
             <guid isPermaLink="false">88e30c3a-4bdd-496a-a4e0-8501e8f7e2da</guid>
+            <pubDate>Wed, 27 Jul 2016 10:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First post ]]></title>
+            <description><![CDATA[<article><h1>First post </h1><p>Hello Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aebf077-9db3-40b2-bb02-d3ebff4947dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wilsonsaloj/first-post/index.html</link>
+            <guid isPermaLink="false">0af749d2-1346-49ae-9384-b1d171c697b3</guid>
             <pubDate>Mon, 27 Jun 2016 11:34:20 GMT</pubDate>
         </item>
         <item>
