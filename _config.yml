@@ -25,6 +25,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - id: c6cfedf6-092f-4e3c-bd4c-50fda6799e8e
+    name: 'Days Of Future Past '
+    type: content
 favicon: null
 collections:
   - index:
